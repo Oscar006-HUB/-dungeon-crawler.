@@ -206,18 +206,6 @@ npx serve .
 
 ---
 
-## 🌐 Deploy to GitHub Pages
-
-1. Push `dungeon-crawler.html` to your repo
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Your game will be live at:
-   ```
-   https://YOUR_USERNAME.github.io/cryptdepth/dungeon-crawler.html
-   ```
-
----
-
 ## 💡 Survival Tips
 
 1. **Hallways are your friend** — enemies can only come at you one at a time in corridors
